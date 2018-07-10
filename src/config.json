@@ -1,0 +1,18 @@
+{
+  "commands": {
+    "login": "api/login"
+  },
+  "rootSelector": "[root]",
+  "menus": [
+    {
+      "title": "home",
+      "link": "/home",
+      "icon": "fa fa-lg fa-fw fa-home"
+    },
+    {
+      "title": "total",
+      "link": "/total",
+      "icon": "fa fa-lg fa-fw fa-home"
+    }
+  ]
+}
